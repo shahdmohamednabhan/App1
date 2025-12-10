@@ -1,0 +1,25 @@
+
+ body{background-color: aqua;}
+
+ .home {
+  width: 100%;
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  text-align: center;
+}
+
+.avatar {
+  width: 180px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 800;
+  color: #2c3e50;
+}
